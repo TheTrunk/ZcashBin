@@ -1,0 +1,2 @@
+# ZcashBin
+Binaries for Zcash
